@@ -7,3 +7,4 @@ A simple program that allows you 2 things after clicking the corresponding lette
 I used HTML, CSS and Vanilla JavaScript.
 
 [![](https://github.com/veranika-isakova/drum-music/blob/master/images/screenshot.png?raw=true)](https://github.com/veranika-isakova/drum-music/blob/master/images/screenshot.png?raw=true)
+[View the live version here](https://veranika-isakova.github.io/drum-music)
